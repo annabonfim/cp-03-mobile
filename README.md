@@ -41,11 +41,7 @@ Use `--android`, `--ios` ou `--web` para abrir diretamente no emulador desejado.
 
 ## Vídeo de demonstração
 
-Adicione aqui o link do vídeo demonstrando o app em funcionamento:
-
-```
 [Vídeo de demonstração](https://youtube.com/shorts/yTjnSRIlg0E?feature=share)
-```
 
 ---
 
