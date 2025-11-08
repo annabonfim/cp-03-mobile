@@ -47,14 +47,6 @@ export default function CursoDetalhe() {
         contentContainerStyle={styles.content}
         showsVerticalScrollIndicator={false}
       >
-        <View style={styles.logoContainer}>
-          <Image
-            source={require("../../assets/logo.png")}
-            style={styles.logo}
-            resizeMode="contain"
-          />
-        </View>
-
         <View style={styles.courseMetaRow}>
           <Text style={styles.courseCategory}>{curso.categoria}</Text>
           <Text style={styles.courseDuration}>{curso.cargaHoraria}</Text>
@@ -89,6 +81,7 @@ const styles = StyleSheet.create({
   content: {
     paddingHorizontal: 24,
     paddingVertical: 32,
+    paddingTop: 1,
     gap: 24
   },
   logoContainer: {
