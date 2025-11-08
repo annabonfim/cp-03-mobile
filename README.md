@@ -6,7 +6,6 @@ Aplicativo desenvolvido para o Checkpoint 3 da disciplina de Mobile. O objetivo 
 
 - Anna Bonfim
 - Felipe Anselmo
-- Integrante 3 (preencher nome completo)
 
 ## Requisitos atendidos
 
